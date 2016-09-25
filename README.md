@@ -7,4 +7,13 @@ The shuki static website.
 
 *Node.JS v6.6.0^ install from [here]()
 
-*Gulp global. After installing node run this command from git bash: `npm install gulp -g`
+*Install global dependencies. After installing node run this command from git bash: `npm run install-global-dependencies`.
+
+
+# Install Instructions.
+
+* In git bash run `npm install`
+
+# Run the site
+
+* In git bash run the command `gulp`

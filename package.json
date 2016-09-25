@@ -4,7 +4,7 @@
   "description": "The shuki front end website.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install-global-dependencies": "npm install -g gulp"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/moti195/shuki-front-end#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "2.16.0",
+    "del": "2.2.2",
+    "gulp": "3.9.1",
+    "gulp-cached": "1.1.0",
+    "gulp-clean-css": "2.0.12",
+    "gulp-concat": "2.6.0",
+    "gulp-include": "2.3.1",
+    "gulp-plumber": "1.1.0",
+    "gulp-remember": "0.3.1"
   }
 }
