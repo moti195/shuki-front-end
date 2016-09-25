@@ -5,7 +5,7 @@ The shuki static website.
 ## Requirments: 
 * Git install from [here](https://git-scm.com/download/win)
 
-* Node.JS v6.6.0^ install from [here]()
+* Node.JS v6.6.0^ install from [here](https://nodejs.org/en/)
 
 * Install global dependencies. After installing node run this command from git bash: `npm run install-global-dependencies`.
 
